@@ -6,7 +6,7 @@ class move_zeros {
                 int temp = nums[i];
                 nums[i]=nums[j];
                 nums[j]=temp;
-
+                
                 j++;
             }
         }
