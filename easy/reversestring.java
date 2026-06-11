@@ -1,4 +1,4 @@
-public class rv {
+public class reversestring {
     public void reverseString(char[] s) {
         int L = 0, R = s.length - 1;
         while (L < R) {
