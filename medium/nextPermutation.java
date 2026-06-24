@@ -1,4 +1,4 @@
-class Solution {
+class nextPermutation{
     public void nextPermutation(int[] nums) {
         int i = nums.length - 2;
 
