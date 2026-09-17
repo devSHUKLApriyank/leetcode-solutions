@@ -1,4 +1,5 @@
-lass Solution {
+import java.utils.*;
+class Solution {
 
     public int[] findRedundantConnection(int[][] edges) {
 
